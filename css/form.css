@@ -1,0 +1,43 @@
+body{
+  background: #6B0D76;
+}
+.main{
+  display: flex;
+  margin: 1%;
+  background: #F4D1F8;
+  border:2px solid #4C5253;
+  padding: 1%;
+  width:95%;
+}
+.main section{
+  width:95%;
+  background: #F4D1F8;
+  border:2px solid #4C5253;
+  margin:1%;
+}
+section{
+  text-align: center;
+  background:#F4D1F8;
+}
+input,select{
+  width:95%;
+  margin:1%;
+  padding:1%;
+  display:block;
+  border:2px solid #4c5253;
+}
+#career{
+  width:95%;
+  margin:1%;
+  padding:2%;
+  display:block;
+}
+button{
+  width:10%;
+  background: #63760D;
+  color: #ddd;
+  margin:1%;
+  padding: 1%;
+  font-size: 20px;
+  font-weight: bold;
+}
